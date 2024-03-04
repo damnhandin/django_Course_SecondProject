@@ -63,6 +63,8 @@ venv.bak/
 .env
 .my_pgpass
 
+db.sqlite3
+
 logfile.log
 logfile_err.log
 webhook_cert.pem
